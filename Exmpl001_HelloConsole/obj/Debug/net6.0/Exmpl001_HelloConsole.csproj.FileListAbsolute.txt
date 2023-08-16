@@ -1,0 +1,15 @@
+C:\Users\geniu\Desktop\GB разработчик\С#\lesson1\Exmpl001_HelloConsole\bin\Debug\net6.0\Exmpl001_HelloConsole.exe
+C:\Users\geniu\Desktop\GB разработчик\С#\lesson1\Exmpl001_HelloConsole\bin\Debug\net6.0\Exmpl001_HelloConsole.deps.json
+C:\Users\geniu\Desktop\GB разработчик\С#\lesson1\Exmpl001_HelloConsole\bin\Debug\net6.0\Exmpl001_HelloConsole.runtimeconfig.json
+C:\Users\geniu\Desktop\GB разработчик\С#\lesson1\Exmpl001_HelloConsole\bin\Debug\net6.0\Exmpl001_HelloConsole.dll
+C:\Users\geniu\Desktop\GB разработчик\С#\lesson1\Exmpl001_HelloConsole\bin\Debug\net6.0\Exmpl001_HelloConsole.pdb
+C:\Users\geniu\Desktop\GB разработчик\С#\lesson1\Exmpl001_HelloConsole\obj\Debug\net6.0\Exmpl001_HelloConsole.csproj.AssemblyReference.cache
+C:\Users\geniu\Desktop\GB разработчик\С#\lesson1\Exmpl001_HelloConsole\obj\Debug\net6.0\Exmpl001_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\geniu\Desktop\GB разработчик\С#\lesson1\Exmpl001_HelloConsole\obj\Debug\net6.0\Exmpl001_HelloConsole.AssemblyInfoInputs.cache
+C:\Users\geniu\Desktop\GB разработчик\С#\lesson1\Exmpl001_HelloConsole\obj\Debug\net6.0\Exmpl001_HelloConsole.AssemblyInfo.cs
+C:\Users\geniu\Desktop\GB разработчик\С#\lesson1\Exmpl001_HelloConsole\obj\Debug\net6.0\Exmpl001_HelloConsole.csproj.CoreCompileInputs.cache
+C:\Users\geniu\Desktop\GB разработчик\С#\lesson1\Exmpl001_HelloConsole\obj\Debug\net6.0\Exmpl001_HelloConsole.dll
+C:\Users\geniu\Desktop\GB разработчик\С#\lesson1\Exmpl001_HelloConsole\obj\Debug\net6.0\refint\Exmpl001_HelloConsole.dll
+C:\Users\geniu\Desktop\GB разработчик\С#\lesson1\Exmpl001_HelloConsole\obj\Debug\net6.0\Exmpl001_HelloConsole.pdb
+C:\Users\geniu\Desktop\GB разработчик\С#\lesson1\Exmpl001_HelloConsole\obj\Debug\net6.0\Exmpl001_HelloConsole.genruntimeconfig.cache
+C:\Users\geniu\Desktop\GB разработчик\С#\lesson1\Exmpl001_HelloConsole\obj\Debug\net6.0\ref\Exmpl001_HelloConsole.dll
