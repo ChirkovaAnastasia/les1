@@ -2,12 +2,27 @@
 //  любой разрядности и на выходе показывает третью цифру слева этого числа или говорит,
 //  что такой цифры нет. Через строку решать нельзя.
 // 456111 -> 6
-// 78 -> нет
-// 9146548 -> 4
-// 3 -> нет
+// // 78 -> нет
+// // 9146548 -> 4
+// // 3 -> нет
 
-Console.WriteLine ("Введите целое число");
-int num = Convert.ToInt32 (Console.ReadLine ());
+System.Console.WriteLine("введите число");
+int number = Convert.ToInt32(Console.ReadLine());
+int ThirdDigit;
+int result;
 
-num = num / 100 % 10;
-Console.WriteLine($"Третья цифра введённого числа: {num}");
+    if (number >= 100)
+    {
+        while (number > 999)
+        {
+            number = number / 10;
+        }
+         result = number % 10;
+         System.Console.Write (result);
+    }
+    else
+    {
+        System.Console.Write ("число не имеет третьей цифры");
+    }
+
+  
